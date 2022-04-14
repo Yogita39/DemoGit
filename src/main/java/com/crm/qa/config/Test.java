@@ -1,5 +1,6 @@
 package com.crm.qa.config;
 
-public class config {
-  syso
+public class Test {
+	
+
 }
